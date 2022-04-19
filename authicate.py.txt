@@ -1,1 +1,1 @@
-def registration(fname,lname,username,password)
+def registration(fname,lname,username,password,email):
